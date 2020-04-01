@@ -1,0 +1,8 @@
+org/samples/oak/demo/type/NodeType.class
+org/samples/oak/demo/service/RepoHistoryHelper.class
+org/samples/oak/demo/bean/FileResponse.class
+org/samples/oak/demo/service/RepositoryHelper.class
+org/samples/oak/demo/bean/FileDetail.class
+org/samples/oak/demo/service/RepositoryBuilder.class
+org/samples/oak/demo/bean/VersionHistory.class
+org/samples/oak/demo/bean/AssetDetail.class
